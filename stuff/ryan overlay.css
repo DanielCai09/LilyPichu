@@ -9,7 +9,7 @@
   top: 0;
   width: 250px;
   height: 250px;
-  background: url("https://i.redd.it/qq7oa4szrlh31.jpg") no-repeat;/*otennate*/
+  background: url("https://i.redd.it/qq7oa4szrlh31.jpg") no-repeat;
   background-size: 100%;
 }
 :root .app-3xd6d0::after {
@@ -24,7 +24,7 @@
 :root .app-2CXKsg::before {
   top: 80px;
   right: 50px;
-  width: 300px;
+  width: 300px;/*otennate*/
   height: 200px;
   background: url("https://cdn.discordapp.com/attachments/998860963975532608/1114605354098114560/discord.png") no-repeat;
   background-size: 100%;
