@@ -24,10 +24,10 @@
 :root .app-2CXKsg::before {
   top: 80px;
   right: 116px;
-  width: 300px;
-  height: 200px;
+  width: 200px;
+  height: 120px;
   background: url("https://cdn.discordapp.com/attachments/998860963975532608/1114605354098114560/discord.png") no-repeat;
-  background-size: 100%;
+  background-size: 150%;
 }
 :root .app-2CXKsg::after {
   bottom: 20px;
